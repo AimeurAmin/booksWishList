@@ -32,7 +32,7 @@ app.use(function(req, res, next) {
 app.get('/books', (req, res) => {
     const books = getnotdeletedbooks()
     return res.status(201).send({
-      success: 'true',
+      success: true,
       message: 'books retrieved successfully',
       books: books
     })
@@ -89,7 +89,7 @@ app.post('/addbook', (req, res) => {
             books.push(book)
             save(books)
             return res.status(200).send({
-                success: 'true',
+                success: true,
                 message: 'book added successfully',
                 book
             })
