@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "vol de nuit",
+    "writer": "antoine",
+    "deletedAt": ""
+  },
+  {
+    "id": 2,
+    "title": "le petit prince",
+    "writer": "antoine",
+    "deletedAt": "Wed Oct 30 2019 14:14:26 GMT+0100 (heure normale d’Europe centrale)"
+  },
+  {
+    "id": 3,
+    "title": "les mesirables",
+    "writer": "victor hugo",
+    "deletedAt": ""
+  },
+  {
+    "id": 4,
+    "title": "les mesirables",
+    "writer": "victor hugo",
+    "deletedAt": "Wed Oct 30 2019 14:12:54 GMT+0100 (heure normale d’Europe centrale)"
+  }
+]
